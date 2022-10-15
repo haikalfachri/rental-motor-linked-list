@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641703288 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tubes\tubes\mainmenu.cpp
+	"rentalmotor.h"
+
+1641702093 c:\users\haikal\documents\kuliah\semester 3\strukdat\tubes\tubes\rentalmotor.h
+	<string>
+	<iostream>
+
+1641305519 source:c:\users\haikal\documents\kuliah\semester 3\strukdat\tubes\tubes\rentalmotor.cpp
+	"rentalmotor.h"
+
